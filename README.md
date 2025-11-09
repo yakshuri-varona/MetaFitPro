@@ -7,7 +7,11 @@
 **Asignatura:** Desarrollo de Aplicaciones Móviles  
 **Profesor:** M.C. Leonel González Vidales  
 **Periodo:** Agosto - Diciembre 2025  
-**URL del Repositorio:** 
+**URL del Repositorio:** https://github.com/yakshuri-varona/MetaFitPro
+
+---
+
+
 
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).

@@ -1,4 +1,14 @@
-# Welcome to your Expo app 👋
+# MetaFitPro -App Contador de Calorias
+
+---
+
+## **1. Identificación del Proyecto**
+**Nombre de la Aplicación:** MetaFitPro  
+**Asignatura:** Desarrollo de Aplicaciones Móviles  
+**Profesor:** M.C. Leonel González Vidales  
+**Periodo:** Agosto - Diciembre 2025  
+**URL del Repositorio:** 
+
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 

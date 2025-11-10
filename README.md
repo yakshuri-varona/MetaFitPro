@@ -172,6 +172,18 @@ Si ocurre un error con package.json, asegúrate de estar en la carpeta raíz del
 ### Captura Pantalla 1
 ![Captura_Pantalla_P1](./Screenshot/Captura_Pantalla_P1.jpg)
 
+### Captura Pantalla 2
+![Captura_Pantalla_P2](./Screenshot/Captura_Pantalla_P2.jpg)
+
+### Historial
+![Captura_historial](./Screenshot/Captura_historial.jpg)
+
+### Perfil
+![Captura_perfil](./Screenshot/Captura_perfil.jpg)
+
+### Registro de Comida
+![Captura_registro](./Screenshot/Captura_registro de comida.jpg)
+
 
  ---
 

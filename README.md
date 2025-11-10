@@ -58,6 +58,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 ## **4. Estructura del Proyecto*
 
 ### **Organización de Archivos:**
+````
 METAFITPRO/
 ├── app/                    # Navegación principal y rutas
 │   ├── (tabs)/            # Pantallas con navegación por pestañas
@@ -84,6 +85,7 @@ METAFITPRO/
 ├── package-lock.json     # Lockfile de dependencias
 ├── README.md             # Este archivo
 └── tsconfig.json         # Configuración de TypeScript
+```
 
 
 ### **Arquitectura:**
@@ -185,6 +187,17 @@ Leche 🥛
 Huevo 🥚
 Tomate 🍅
 Cerveza 🍺
+
+---
+
+## **Pantalla de Hirtorial:**
+ -Muestra el progreso.
+ -Muestra el historial de dias anteriores.
+ -Muestra el resumen del día.
+ -Se muestra el registro de comidas.
+
+
+ ---
 
 ## **Características técnicas:**
 

@@ -169,7 +169,9 @@ Si ocurre un error con package.json, asegúrate de estar en la carpeta raíz del
  -Muestra el Historial.
  -Muestra un mensaje con un consejo del Día
 
-![Pantalla Principal](Screenshot/Captura_Pantalla_P1.jpg)
+### Captura Pantalla 1
+![Captura_Pantalla_P1](Captura_Pantalla_P1.jpg)
+
 
 
  ---

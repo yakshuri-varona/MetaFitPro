@@ -85,7 +85,7 @@ METAFITPRO/
 ├── package-lock.json     # Lockfile de dependencias
 ├── README.md             # Este archivo
 └── tsconfig.json         # Configuración de TypeScript
-```
+
 ---
 
 ### **Arquitectura:**
